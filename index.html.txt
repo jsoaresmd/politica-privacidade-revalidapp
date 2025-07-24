@@ -1,0 +1,57 @@
+Política de Privacidade - Revalidapp
+Última atualização: 24 de julho de 2025
+
+1. Introdução
+A sua privacidade é uma prioridade para o REvalidapp ("nós"). Esta Política de Privacidade explica como coletamos, usamos, armazenamos e compartilhamos suas informações quando você utiliza nosso aplicativo móvel ("App") e serviços associados. Ao criar uma conta e usar nosso App, você concorda com as práticas descritas neste documento.
+
+2. Quais Informações Coletamos e Por Quê
+Nós coletamos apenas as informações estritamente necessárias para oferecer e aprimorar sua experiência de treinamento.
+
+a) Dados que Você nos Fornece Diretamente:
+
+Informações de Cadastro: Para criar e proteger sua conta, solicitamos seu nome, endereço de e-mail e uma senha (que é armazenada de forma criptografada).
+
+Contato de Suporte: Se você entrar em contato conosco, guardaremos o registro da comunicação para resolver seu problema.
+
+b) Dados que Coletamos Automaticamente durante o Uso do App:
+
+Dados de Progresso e Desempenho: Coletamos seu progresso nos casos clínicos, as respostas fornecidas nos checklists e suas pontuações. Estes dados são a essência do serviço, permitindo que você acompanhe sua evolução.
+
+Dados Técnicos e de Uso: Informações como tipo de dispositivo, versão do sistema operacional e identificadores anônimos de uso. Estes dados nos ajudam a corrigir falhas (bugs) e a otimizar o desempenho do App.
+
+3. Como Usamos Suas Informações
+Para Fornecer o Serviço: Gerenciar sua conta, salvar seu progresso e permitir o acesso aos casos clínicos.
+
+Para Melhorar o App: Analisar dados de uso de forma agregada e anônima para entender quais áreas e casos são mais desafiadores, nos permitindo criar conteúdo novo e mais eficaz.
+
+Para Comunicação: Enviar informações importantes sobre sua conta, atualizações do App ou mudanças nesta política.
+
+Para Segurança: Proteger nossa plataforma contra fraudes e garantir a segurança dos dados de nossos usuários.
+
+4. Com Quem Compartilhamos Suas Informações
+Nós não vendemos ou alugamos seus dados pessoais. O compartilhamento é restrito e ocorre apenas nas seguintes situações:
+
+Provedores de Serviços: Utilizamos serviços de terceiros que são fundamentais para a operação do REvalidapp. Nosso principal provedor é o Google Firebase, que utilizamos para:
+
+Autenticação: Gerenciar seu login de forma segura.
+
+Banco de Dados (Firestore): Armazenar com segurança seus dados de conta e progresso.
+
+Análise (Analytics): Entender como o App é utilizado.
+
+Esses provedores são obrigados por contrato a proteger seus dados e só podem usá-los para prestar o serviço contratado.
+
+Obrigações Legais: Se formos exigidos por lei ou por uma ordem judicial, poderemos divulgar informações às autoridades competentes.
+
+5. Segurança e Retenção dos Dados
+Protegemos seus dados usando medidas técnicas e organizacionais padrão do mercado, como criptografia. Retemos suas informações pessoais apenas pelo tempo necessário para fornecer os serviços do REvalidapp ou enquanto sua conta estiver ativa.
+
+6. Seus Direitos (LGPD)
+Você, como titular dos dados, tem o direito de solicitar o acesso, a correção ou a exclusão de suas informações pessoais. Para fazer uma solicitação, entre em contato conosco pelo e-mail abaixo.
+
+7. Links para Sites de Terceiros
+O App pode, eventualmente, conter links para materiais de estudo ou sites externos. Não temos controle sobre o conteúdo ou as práticas de privacidade desses sites e não podemos nos responsabilizar por eles.
+
+8. Contato
+Se você tiver qualquer dúvida sobre esta política, entre em contato conosco:
+E-mail: revalidaapp@gmail.com
